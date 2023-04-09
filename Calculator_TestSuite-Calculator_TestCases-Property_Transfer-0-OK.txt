@@ -1,0 +1,18 @@
+Status: OK
+Time Taken: 5
+Size: 0
+Timestamp: Sat Apr 08 19:44:44 CDT 2023
+TestStep: Property Transfer
+
+----------------- Messages ------------------------------
+Performed transfer [multi to sub]
+----------------------------------------------------
+multi to sub transferred [[1520]] from [Multiply_Request.Response] to [Subtract_Request.Request]
+------------ source path -------------
+declare namespace soap='http://www.w3.org/2003/05/soap-envelope';
+declare namespace ns1='http://tempuri.org/';
+//*:MultiplyResult
+------------ target path -------------
+declare namespace soap='http://www.w3.org/2003/05/soap-envelope';
+declare namespace ns1='http://tempuri.org/';
+//*:intA

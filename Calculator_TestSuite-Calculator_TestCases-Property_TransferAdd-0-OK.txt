@@ -1,0 +1,18 @@
+Status: OK
+Time Taken: 41
+Size: 0
+Timestamp: Sat Apr 08 19:44:44 CDT 2023
+TestStep: Property Transfer-Add
+
+----------------- Messages ------------------------------
+Performed transfer [add_transfer]
+----------------------------------------------------
+add_transfer transferred [[304]] from [Add_Request.Response] to [Divide - Divide_Request.Request]
+------------ source path -------------
+declare namespace soap='http://www.w3.org/2003/05/soap-envelope';
+declare namespace ns1='http://tempuri.org/';
+//*:AddResult
+------------ target path -------------
+declare namespace soap='http://www.w3.org/2003/05/soap-envelope';
+declare namespace ns1='http://tempuri.org/';
+//*:intA

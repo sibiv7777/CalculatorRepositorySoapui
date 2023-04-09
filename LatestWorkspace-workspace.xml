@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:soapui-workspace name="LatestWorkspace" soapui-version="5.7.0" xmlns:con="http://eviware.com/soapui/config">
+  <con:settings/>
+  <con:project name="calculator Project">C:/Users/rastt/Documents/SOAPUI_Project/calculator-soapui-project.xml</con:project>
+  <con:project name="Countries Project">C:/Users/rastt/Documents/Countries-Project-soapui-project.xml</con:project>
+  <con:project name="REST Project 1">C:/Users/rastt/Documents/REST-Project-One-soapui-project.xml</con:project>
+  <con:project name="REST Project 2">C:/Users/rastt/Documents/REST-Project-2-soapui-project.xml</con:project>
+  <con:collectInfoForSupport>false</con:collectInfoForSupport>
+</con:soapui-workspace>

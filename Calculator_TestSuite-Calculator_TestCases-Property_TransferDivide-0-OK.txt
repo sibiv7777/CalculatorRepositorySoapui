@@ -1,0 +1,19 @@
+Status: OK
+Time Taken: 7
+Size: 0
+Timestamp: Sat Apr 08 19:44:44 CDT 2023
+TestStep: Property Transfer-Divide
+
+----------------- Messages ------------------------------
+Performed transfer [DivideREsult]
+----------------------------------------------------
+DivideREsult transferred [[152]] from [Divide - Divide_Request.Response] to [Multiply_Request.Request]
+------------ source path -------------
+declare namespace soap='http://www.w3.org/2003/05/soap-envelope';
+declare namespace ns1='http://tempuri.org/';
+//*:DivideResult
+
+------------ target path -------------
+declare namespace soap='http://www.w3.org/2003/05/soap-envelope';
+declare namespace ns1='http://tempuri.org/';
+//*:intA
